@@ -1,3 +1,5 @@
+# For security reasons, only upload photos.
+
 # VCU 3.0 PCB
 <img width="778" height="741" alt="image" src="https://github.com/user-attachments/assets/1bd72ae9-ba68-4976-83be-57ddf178dea9" />
 
