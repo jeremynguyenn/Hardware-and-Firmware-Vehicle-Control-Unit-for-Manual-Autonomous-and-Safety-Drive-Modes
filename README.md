@@ -7,6 +7,5 @@
 <img width="752" height="702" alt="image" src="https://github.com/user-attachments/assets/4ed2be90-0e5d-4bd3-a123-d54fc4b8dfee" />
 
 # VCU 1.0 PCB
-
-
+<img width="807" height="736" alt="image" src="https://github.com/user-attachments/assets/48606478-2a9b-48a6-9a7b-6ab4a3e306e5" />
 
